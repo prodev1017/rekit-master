@@ -1,0 +1,15 @@
+build
+node_modules
+npm-debug.log
+lerna-debug.log
+yarn-error.log
+target
+src/_tmp
+static
+dist
+coverage
+_book
+.nyc_output
+.tmp
+.DS_Store
+Thumbs.db

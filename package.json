@@ -1,0 +1,36 @@
+{
+  "name": "rekit",
+  "version": "3.0.0-beta.7",
+  "description": "Rekit command line tools.",
+  "license": "MIT",
+  "bin": {
+    "rekit": "./bin/rekit.js"
+  },
+  "files": [
+    "bin",
+    "package.json",
+    "LICENSE"
+  ],
+  "keywords": [
+    "rekit",
+    "react",
+    "redux",
+    "react-router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rekit/rekit.git"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "chalk": "^2.4.2",
+    "rekit-core": "next"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-node": "^4.0.0"
+  }
+}
